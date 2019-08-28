@@ -1,0 +1,1103 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "bz2y-999w",
+      "name" : "Swimming Pools",
+      "averageRating" : 0,
+      "category" : "Community/Recreation",
+      "createdAt" : 1418834415,
+      "description" : "Montgomery County Indoor/Outdoor Swimming Pools",
+      "displayType" : "map",
+      "downloadCount" : 1387,
+      "hideFromCatalog" : false,
+      "hideFromDataJson" : false,
+      "iconUrl" : "fileId:-2IlKytldjaOXkpbfrRYoVRYU0aeV1j075x7AiXaS5I",
+      "indexUpdatedAt" : 1462572556,
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 9654345,
+      "provenance" : "official",
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1418834429,
+      "publicationGroup" : 1987517,
+      "publicationStage" : "published",
+      "rowClass" : "",
+      "tableId" : 1987517,
+      "totalTimesRated" : 0,
+      "viewCount" : 517,
+      "viewLastModified" : 1462563018,
+      "viewType" : "tabular",
+      "approvals" : [ {
+        "reviewedAt" : 1422985298,
+        "reviewedAutomatically" : true,
+        "state" : "approved",
+        "submissionId" : 1045045,
+        "submissionObject" : "public_audience_request",
+        "submissionOutcome" : "change_audience",
+        "submittedAt" : 1422985298,
+        "workflowId" : 2274,
+        "submissionDetails" : {
+          "permissionType" : "READ"
+        },
+        "submissionOutcomeApplication" : {
+          "failureCount" : 0,
+          "status" : "success"
+        },
+        "submitter" : {
+          "id" : "hesx-43k8",
+          "displayName" : "Dan"
+        }
+      } ],
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { }
+      }, {
+        "id" : 180264831,
+        "name" : "OBJECTID",
+        "dataTypeName" : "number",
+        "description" : "OBJECTID",
+        "fieldName" : "objectid",
+        "position" : 2,
+        "renderTypeName" : "number",
+        "tableColumnId" : 23400032,
+        "width" : 100,
+        "cachedContents" : {
+          "non_null" : 14,
+          "average" : "647.5",
+          "largest" : "654",
+          "null" : 0,
+          "top" : [ {
+            "item" : "641",
+            "count" : 20
+          }, {
+            "item" : "642",
+            "count" : 19
+          }, {
+            "item" : "643",
+            "count" : 18
+          }, {
+            "item" : "644",
+            "count" : 17
+          }, {
+            "item" : "645",
+            "count" : 16
+          }, {
+            "item" : "646",
+            "count" : 15
+          }, {
+            "item" : "647",
+            "count" : 14
+          }, {
+            "item" : "648",
+            "count" : 13
+          }, {
+            "item" : "649",
+            "count" : 12
+          }, {
+            "item" : "650",
+            "count" : 11
+          }, {
+            "item" : "651",
+            "count" : 10
+          }, {
+            "item" : "652",
+            "count" : 9
+          }, {
+            "item" : "653",
+            "count" : 8
+          }, {
+            "item" : "654",
+            "count" : 7
+          } ],
+          "smallest" : "641",
+          "sum" : "9065"
+        },
+        "format" : { }
+      }, {
+        "id" : 180264832,
+        "name" : "CATEGORY",
+        "dataTypeName" : "text",
+        "description" : "CATEGORY",
+        "fieldName" : "category",
+        "position" : 3,
+        "renderTypeName" : "text",
+        "tableColumnId" : 23400033,
+        "width" : 100,
+        "cachedContents" : {
+          "non_null" : 14,
+          "largest" : "SWIMMING POOLS",
+          "null" : 0,
+          "top" : [ {
+            "item" : "SWIMMING POOLS",
+            "count" : 20
+          } ],
+          "smallest" : "SWIMMING POOLS"
+        },
+        "format" : { }
+      }, {
+        "id" : 180264833,
+        "name" : "NAME",
+        "dataTypeName" : "text",
+        "description" : "NAME",
+        "fieldName" : "name",
+        "position" : 4,
+        "renderTypeName" : "text",
+        "tableColumnId" : 23400034,
+        "width" : 100,
+        "cachedContents" : {
+          "non_null" : 14,
+          "largest" : "Wheaton / Glenmont Outdoor Pool",
+          "null" : 0,
+          "top" : [ {
+            "item" : "Martin Luther King Jr Swim Center",
+            "count" : 20
+          }, {
+            "item" : "Kennedy-Shriver Aquatic Center (KSAC)",
+            "count" : 19
+          }, {
+            "item" : "Olney Swim Center",
+            "count" : 18
+          }, {
+            "item" : "Germantown Outdoor Pool",
+            "count" : 17
+          }, {
+            "item" : "Wheaton / Glenmont Outdoor Pool",
+            "count" : 16
+          }, {
+            "item" : "Long Branch Outdoor Pool",
+            "count" : 15
+          }, {
+            "item" : "Western County Outdoor Pool",
+            "count" : 14
+          }, {
+            "item" : "Upper County Outdoor Pool",
+            "count" : 13
+          }, {
+            "item" : "Bethesda Outdoor Pool",
+            "count" : 12
+          }, {
+            "item" : "Water Park at Bohrer Park",
+            "count" : 11
+          }, {
+            "item" : "Gaithersburg Aquatic Center",
+            "count" : 10
+          }, {
+            "item" : "Rockville Municipal Swim Center",
+            "count" : 9
+          }, {
+            "item" : "Germantown Indoor Swim Center",
+            "count" : 8
+          }, {
+            "item" : "Good Hope Sprayground",
+            "count" : 7
+          } ],
+          "smallest" : "Bethesda Outdoor Pool"
+        },
+        "format" : { }
+      }, {
+        "id" : 180264834,
+        "name" : "ADDRESS",
+        "dataTypeName" : "text",
+        "description" : "ADDRESS",
+        "fieldName" : "address",
+        "position" : 5,
+        "renderTypeName" : "text",
+        "tableColumnId" : 23400035,
+        "width" : 100,
+        "cachedContents" : {
+          "non_null" : 14,
+          "largest" : "8700 Piney Branch Rd",
+          "null" : 0,
+          "top" : [ {
+            "item" : "1201 Jackson Rd",
+            "count" : 20
+          }, {
+            "item" : "5900 Executive Blv",
+            "count" : 19
+          }, {
+            "item" : "16601 Georgia Ave",
+            "count" : 18
+          }, {
+            "item" : "18905 Kingsview Rd",
+            "count" : 17
+          }, {
+            "item" : "12601 Dalewood Dr",
+            "count" : 16
+          }, {
+            "item" : "8700 Piney Branch Rd",
+            "count" : 15
+          }, {
+            "item" : "20151 Fisher Ave",
+            "count" : 14
+          }, {
+            "item" : "8211 Emory Grove Rd",
+            "count" : 13
+          }, {
+            "item" : "6300 Hillandale Rd",
+            "count" : 12
+          }, {
+            "item" : "510 S Frederick Ave",
+            "count" : 11
+          }, {
+            "item" : "2 Teachers Way",
+            "count" : 10
+          }, {
+            "item" : "355 Martins La",
+            "count" : 9
+          }, {
+            "item" : "18000 Central Park Cir",
+            "count" : 8
+          }, {
+            "item" : "14715 Good Hope Rd",
+            "count" : 7
+          } ],
+          "smallest" : "1201 Jackson Rd"
+        },
+        "format" : { }
+      }, {
+        "id" : 180264835,
+        "name" : "CITY",
+        "dataTypeName" : "text",
+        "description" : "CITY",
+        "fieldName" : "city",
+        "position" : 6,
+        "renderTypeName" : "text",
+        "tableColumnId" : 23400036,
+        "width" : 100,
+        "cachedContents" : {
+          "non_null" : 14,
+          "largest" : "Wheaton",
+          "null" : 0,
+          "top" : [ {
+            "item" : "Silver Spring",
+            "count" : 20
+          }, {
+            "item" : "N. Bethesda",
+            "count" : 19
+          }, {
+            "item" : "Olney",
+            "count" : 18
+          }, {
+            "item" : "Germantown",
+            "count" : 17
+          }, {
+            "item" : "Wheaton",
+            "count" : 16
+          }, {
+            "item" : "Poolesville",
+            "count" : 15
+          }, {
+            "item" : "Gaithersburg",
+            "count" : 14
+          }, {
+            "item" : "Bethesda",
+            "count" : 13
+          }, {
+            "item" : "Rockville",
+            "count" : 12
+          }, {
+            "item" : "Boyds",
+            "count" : 11
+          } ],
+          "smallest" : "Bethesda"
+        },
+        "format" : { }
+      }, {
+        "id" : 180264836,
+        "name" : "ZIPCODE",
+        "dataTypeName" : "text",
+        "description" : "ZIPCODE",
+        "fieldName" : "zipcode",
+        "position" : 7,
+        "renderTypeName" : "text",
+        "tableColumnId" : 23400037,
+        "width" : 100,
+        "cachedContents" : {
+          "non_null" : 14,
+          "largest" : "20906",
+          "null" : 0,
+          "top" : [ {
+            "item" : "20904",
+            "count" : 20
+          }, {
+            "item" : "20852",
+            "count" : 19
+          }, {
+            "item" : "20832",
+            "count" : 18
+          }, {
+            "item" : "20874",
+            "count" : 17
+          }, {
+            "item" : "20906",
+            "count" : 16
+          }, {
+            "item" : "20901",
+            "count" : 15
+          }, {
+            "item" : "20837",
+            "count" : 14
+          }, {
+            "item" : "20877",
+            "count" : 13
+          }, {
+            "item" : "20815",
+            "count" : 12
+          }, {
+            "item" : "20884",
+            "count" : 11
+          }, {
+            "item" : "20850",
+            "count" : 10
+          }, {
+            "item" : "20841",
+            "count" : 9
+          }, {
+            "item" : "20905",
+            "count" : 8
+          } ],
+          "smallest" : "20815"
+        },
+        "format" : { }
+      }, {
+        "id" : 180264837,
+        "name" : "PHONE",
+        "dataTypeName" : "text",
+        "description" : "PHONE",
+        "fieldName" : "phone",
+        "position" : 8,
+        "renderTypeName" : "text",
+        "tableColumnId" : 23400038,
+        "width" : 100,
+        "cachedContents" : {
+          "non_null" : 14,
+          "largest" : "301-929-5460",
+          "null" : 0,
+          "top" : [ {
+            "item" : "240-777-8066",
+            "count" : 20
+          }, {
+            "item" : "240-777-8070",
+            "count" : 19
+          }, {
+            "item" : "240-777-4995",
+            "count" : 18
+          }, {
+            "item" : "240-777-8067",
+            "count" : 17
+          }, {
+            "item" : "301-929-5460",
+            "count" : 16
+          }, {
+            "item" : "301-431-5700",
+            "count" : 15
+          }, {
+            "item" : "301-349-2217",
+            "count" : 14
+          }, {
+            "item" : "301-840-2446",
+            "count" : 13
+          }, {
+            "item" : "301-652-1598",
+            "count" : 12
+          }, {
+            "item" : "301-258-6445",
+            "count" : 11
+          }, {
+            "item" : "301-258-6345",
+            "count" : 10
+          }, {
+            "item" : "240-314-8750",
+            "count" : 9
+          }, {
+            "item" : "240-777-6830",
+            "count" : 8
+          }, {
+            "item" : "240-777-8060",
+            "count" : 7
+          } ],
+          "smallest" : "240-314-8750"
+        },
+        "format" : { }
+      }, {
+        "id" : 180264838,
+        "name" : "URL",
+        "dataTypeName" : "text",
+        "description" : "URL",
+        "fieldName" : "url",
+        "position" : 9,
+        "renderTypeName" : "text",
+        "tableColumnId" : 23400039,
+        "width" : 100,
+        "cachedContents" : {
+          "non_null" : 14,
+          "largest" : "http://www6.montgomerycountymd.gov/rectmpl.asp?url=/content/rec/thingstodo/aquatics/sprayground.asp",
+          "null" : 0,
+          "top" : [ {
+            "item" : "http://www6.montgomerycountymd.gov/rectmpl.asp?url=/content/rec/thingstodo/aquatics/outdoor.asp",
+            "count" : 20
+          }, {
+            "item" : "http://www6.montgomerycountymd.gov/rectmpl.asp?url=/content/rec/thingstodo/aquatics/index.asp",
+            "count" : 19
+          }, {
+            "item" : "http://www.gaithersburgmd.gov/poi/default.asp?POI_ID=5&TOC=1;5;",
+            "count" : 18
+          }, {
+            "item" : "http://www.gaithersburgmd.gov/poi/default.asp?POI_ID=29&TOC=1;29;",
+            "count" : 17
+          }, {
+            "item" : "http://www.rockvillemd.gov/swimcenter",
+            "count" : 16
+          }, {
+            "item" : "http://www6.montgomerycountymd.gov/rectmpl.asp?url=/content/rec/thingstodo/aquatics/sprayground.asp",
+            "count" : 15
+          } ],
+          "smallest" : "http://www.gaithersburgmd.gov/poi/default.asp?POI_ID=29&TOC=1;29;"
+        },
+        "format" : { }
+      }, {
+        "id" : 180264839,
+        "name" : "DATA",
+        "dataTypeName" : "text",
+        "description" : "DATA",
+        "fieldName" : "data",
+        "position" : 10,
+        "renderTypeName" : "text",
+        "tableColumnId" : 23400040,
+        "width" : 100,
+        "cachedContents" : {
+          "non_null" : 14,
+          "largest" : "Municipal",
+          "null" : 0,
+          "top" : [ {
+            "item" : "County",
+            "count" : 20
+          }, {
+            "item" : "Municipal",
+            "count" : 19
+          } ],
+          "smallest" : "County"
+        },
+        "format" : { }
+      }, {
+        "id" : 180264845,
+        "name" : "POINT_X",
+        "dataTypeName" : "number",
+        "description" : "POINT_X",
+        "fieldName" : "point_x",
+        "position" : 11,
+        "renderTypeName" : "number",
+        "tableColumnId" : 23400046,
+        "width" : 100,
+        "cachedContents" : {
+          "non_null" : 14,
+          "average" : "1270850.791491391",
+          "largest" : "1316401.5689509599469602108001708984375",
+          "null" : 0,
+          "top" : [ {
+            "item" : "1316040.87493461999110877513885498046875",
+            "count" : 20
+          }, {
+            "item" : "1278653.0141638000495731830596923828125",
+            "count" : 19
+          }, {
+            "item" : "1292273.5000644898973405361175537109375",
+            "count" : 18
+          }, {
+            "item" : "1231403.62506380002014338970184326171875",
+            "count" : 17
+          }, {
+            "item" : "1294031.18966612010262906551361083984375",
+            "count" : 16
+          }, {
+            "item" : "1312842.1249796398915350437164306640625",
+            "count" : 15
+          }, {
+            "item" : "1192762.8749478100799024105072021484375",
+            "count" : 14
+          }, {
+            "item" : "1264644.3749187500216066837310791015625",
+            "count" : 13
+          }, {
+            "item" : "1283791.1248885900713503360748291015625",
+            "count" : 12
+          }, {
+            "item" : "1256821.00159946992062032222747802734375",
+            "count" : 11
+          }, {
+            "item" : "1259319.43155379011295735836029052734375",
+            "count" : 10
+          }, {
+            "item" : "1266992.691336940042674541473388671875",
+            "count" : 9
+          }, {
+            "item" : "1225933.68381069996394217014312744140625",
+            "count" : 8
+          }, {
+            "item" : "1316401.5689509599469602108001708984375",
+            "count" : 7
+          } ],
+          "smallest" : "1192762.8749478100799024105072021484375",
+          "sum" : "17791911.08087948011234402656555175781250"
+        },
+        "format" : { }
+      }, {
+        "id" : 180264846,
+        "name" : "POINT_Y",
+        "dataTypeName" : "number",
+        "description" : "POINT_Y",
+        "fieldName" : "point_y",
+        "position" : 12,
+        "renderTypeName" : "number",
+        "tableColumnId" : 23400047,
+        "width" : 100,
+        "cachedContents" : {
+          "non_null" : 14,
+          "average" : "520528.8455294036",
+          "largest" : "545861.68739070999436080455780029296875",
+          "null" : 0,
+          "top" : [ {
+            "item" : "505636.1249852500041015446186065673828125",
+            "count" : 20
+          }, {
+            "item" : "502490.5045023200218565762042999267578125",
+            "count" : 19
+          }, {
+            "item" : "531778.437457590014673769474029541015625",
+            "count" : 18
+          }, {
+            "item" : "545861.68739070999436080455780029296875",
+            "count" : 17
+          }, {
+            "item" : "507645.212219120003283023834228515625",
+            "count" : 16
+          }, {
+            "item" : "485505.7812864999868907034397125244140625",
+            "count" : 15
+          }, {
+            "item" : "540106.499929349985904991626739501953125",
+            "count" : 14
+          }, {
+            "item" : "540429.49999365000985562801361083984375",
+            "count" : 13
+          }, {
+            "item" : "475991.1562536400160752236843109130859375",
+            "count" : 12
+          }, {
+            "item" : "533945.710931609966792166233062744140625",
+            "count" : 11
+          }, {
+            "item" : "537870.47253527003340423107147216796875",
+            "count" : 10
+          }, {
+            "item" : "518670.7129013899830169975757598876953125",
+            "count" : 9
+          }, {
+            "item" : "540835.61429803003557026386260986328125",
+            "count" : 8
+          }, {
+            "item" : "520636.42272721999324858188629150390625",
+            "count" : 7
+          } ],
+          "smallest" : "475991.1562536400160752236843109130859375",
+          "sum" : "7287403.8374116500490345060825347900390625"
+        },
+        "format" : { }
+      }, {
+        "id" : 180264847,
+        "name" : "SHAPE",
+        "dataTypeName" : "location",
+        "description" : "Shape",
+        "fieldName" : "shape",
+        "position" : 13,
+        "renderTypeName" : "location",
+        "tableColumnId" : 23400048,
+        "width" : 100,
+        "cachedContents" : {
+          "non_null" : 14,
+          "largest" : {
+            "latitude" : "39.09625018500003",
+            "longitude" : "-76.98566788899996"
+          },
+          "null" : 0,
+          "top" : [ {
+            "item" : {
+              "latitude" : "39.05506470200004",
+              "longitude" : "-76.98694634899994"
+            },
+            "count" : 20
+          }, {
+            "item" : {
+              "latitude" : "39.04636852300007",
+              "longitude" : "-77.11859159399995"
+            },
+            "count" : 19
+          }, {
+            "item" : {
+              "latitude" : "39.12682158800004",
+              "longitude" : "-77.07071340899995"
+            },
+            "count" : 18
+          }, {
+            "item" : {
+              "latitude" : "39.165162606000024",
+              "longitude" : "-77.28543467399999"
+            },
+            "count" : 17
+          }, {
+            "item" : {
+              "latitude" : "39.060563968000054",
+              "longitude" : "-77.06445746899993"
+            },
+            "count" : 16
+          }, {
+            "item" : {
+              "latitude" : "38.99979385000006",
+              "longitude" : "-76.99821199299998"
+            },
+            "count" : 15
+          }, {
+            "item" : {
+              "latitude" : "39.14895042100005",
+              "longitude" : "-77.42162202399999"
+            },
+            "count" : 14
+          }, {
+            "item" : {
+              "latitude" : "39.15047478400004",
+              "longitude" : "-77.16816236899996"
+            },
+            "count" : 13
+          }, {
+            "item" : {
+              "latitude" : "38.973626386000035",
+              "longitude" : "-77.10039756799995"
+            },
+            "count" : 12
+          }, {
+            "item" : {
+              "latitude" : "39.132630052000025",
+              "longitude" : "-77.19569993599998"
+            },
+            "count" : 11
+          }, {
+            "item" : {
+              "latitude" : "39.14342028000004",
+              "longitude" : "-77.18692057499999"
+            },
+            "count" : 10
+          }, {
+            "item" : {
+              "latitude" : "39.09074499700006",
+              "longitude" : "-77.15974752399995"
+            },
+            "count" : 9
+          }, {
+            "item" : {
+              "latitude" : "39.151314558000024",
+              "longitude" : "-77.30466740399999"
+            },
+            "count" : 8
+          }, {
+            "item" : {
+              "latitude" : "39.09625018500003",
+              "longitude" : "-76.98566788899996"
+            },
+            "count" : 7
+          } ],
+          "smallest" : {
+            "latitude" : "39.05506470200004",
+            "longitude" : "-76.98694634899994"
+          }
+        },
+        "format" : { },
+        "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding" ]
+      }, {
+        "id" : 247208520,
+        "name" : "LATITUDE",
+        "dataTypeName" : "number",
+        "description" : "LATITUDE",
+        "fieldName" : "latitude",
+        "position" : 14,
+        "renderTypeName" : "number",
+        "tableColumnId" : 35071588,
+        "cachedContents" : {
+          "non_null" : 14,
+          "average" : "39.09579119928571",
+          "largest" : "39.1651547299999975848550093360245227813720703125",
+          "null" : 0,
+          "top" : [ {
+            "item" : "39.05505683999999888555976212956011295318603515625",
+            "count" : 20
+          }, {
+            "item" : "39.0463606699999985494287102483212947845458984375",
+            "count" : 19
+          }, {
+            "item" : "39.12681371000000041249222704209387302398681640625",
+            "count" : 18
+          }, {
+            "item" : "39.1651547299999975848550093360245227813720703125",
+            "count" : 17
+          }, {
+            "item" : "39.06055611000000027388523449189960956573486328125",
+            "count" : 16
+          }, {
+            "item" : "38.999786000000000285581336356699466705322265625",
+            "count" : 15
+          }, {
+            "item" : "39.14894256000000183348674909211695194244384765625",
+            "count" : 14
+          }, {
+            "item" : "39.15046690999999867699443711899220943450927734375",
+            "count" : 13
+          }, {
+            "item" : "38.97361853999999681263943784870207309722900390625",
+            "count" : 12
+          }, {
+            "item" : "39.1326221799999984796158969402313232421875",
+            "count" : 11
+          }, {
+            "item" : "39.14341241000000337635356117971241474151611328125",
+            "count" : 10
+          }, {
+            "item" : "39.09073713000000083184204413555562496185302734375",
+            "count" : 9
+          }, {
+            "item" : "39.1513066899999984116220730356872081756591796875",
+            "count" : 8
+          }, {
+            "item" : "39.09624231000000094127244665287435054779052734375",
+            "count" : 7
+          } ],
+          "smallest" : "38.97361853999999681263943784870207309722900390625",
+          "sum" : "547.34107678999999535562892560847103595733642578125"
+        },
+        "format" : { }
+      }, {
+        "id" : 247208522,
+        "name" : "LONGITUDE",
+        "dataTypeName" : "number",
+        "description" : "LONGITUDE",
+        "fieldName" : "longitude",
+        "position" : 15,
+        "renderTypeName" : "number",
+        "tableColumnId" : 35071589,
+        "cachedContents" : {
+          "non_null" : 14,
+          "average" : "-77.14622917357143",
+          "largest" : "-76.985665629999999737265170551836490631103515625",
+          "null" : 0,
+          "top" : [ {
+            "item" : "-76.9869440899999943894727039150893688201904296875",
+            "count" : 20
+          }, {
+            "item" : "-77.1185892900000027339046937413513660430908203125",
+            "count" : 19
+          }, {
+            "item" : "-77.07071111999999857289367355406284332275390625",
+            "count" : 18
+          }, {
+            "item" : "-77.2854323199999981852670316584408283233642578125",
+            "count" : 17
+          }, {
+            "item" : "-77.0644551900000038813232094980776309967041015625",
+            "count" : 16
+          }, {
+            "item" : "-76.9982097299999992401353665627539157867431640625",
+            "count" : 15
+          }, {
+            "item" : "-77.42161962000000130501575767993927001953125",
+            "count" : 14
+          }, {
+            "item" : "-77.1681600499999973408193909563124179840087890625",
+            "count" : 13
+          }, {
+            "item" : "-77.1003952800000007528069545514881610870361328125",
+            "count" : 12
+          }, {
+            "item" : "-77.195697609999996302576619200408458709716796875",
+            "count" : 11
+          }, {
+            "item" : "-77.1869182500000050595190259627997875213623046875",
+            "count" : 10
+          }, {
+            "item" : "-77.1597452099999969732380122877657413482666015625",
+            "count" : 9
+          }, {
+            "item" : "-77.304665040000003273235051892697811126708984375",
+            "count" : 8
+          }, {
+            "item" : "-76.985665629999999737265170551836490631103515625",
+            "count" : 7
+          } ],
+          "smallest" : "-77.42161962000000130501575767993927001953125",
+          "sum" : "-1080.0472084299999977474726620130240917205810546875"
+        },
+        "format" : { }
+      } ],
+      "disabledFeatureFlags" : [ "allow_comments" ],
+      "displayFormat" : {
+        "viewport" : {
+          "ymin" : 39.012203988489,
+          "xmin" : -77.333850706262,
+          "ymax" : 39.195633644446,
+          "xmax" : -76.932472074742
+        },
+        "bkgdLayers" : [ {
+          "layerKey" : "World Street Map (ESRI)",
+          "opacity" : 1
+        } ],
+        "disableGeolocator" : false,
+        "exclusiveLayers" : false,
+        "viewDefinitions" : [ {
+          "uid" : "self",
+          "plot" : {
+            "descriptionColumns" : [ {
+              "tableColumnId" : 23400034
+            }, {
+              "tableColumnId" : 23400035
+            }, {
+              "tableColumnId" : 23400036
+            }, {
+              "tableColumnId" : 23400038
+            }, {
+              "tableColumnId" : 23400040
+            } ]
+          },
+          "flyoutsNoLabel" : false,
+          "opacity" : 1
+        } ]
+      },
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "metadata" : {
+        "rdfSubject" : "0",
+        "rdfClass" : "",
+        "custom_fields" : {
+          "Basic" : {
+            "supportsStatistics" : "true",
+            "capabilities" : "Map,Query,Data",
+            "maxScale" : "0",
+            "useStandardizedQueries" : "true",
+            "maxRecordCount" : "1000",
+            "Spatial Reference wkid" : "102685",
+            "supportsAdvancedQueries" : "true",
+            "defaultVisibility" : "true",
+            "type" : "Feature Layer",
+            "canModifyLayer" : "false",
+            "Source" : "https://gis3.montgomerycountymd.gov/arcgis/rest/services/ploi/swimming_pools/MapServer/0",
+            "currentVersion" : "10.22",
+            "canScaleSymbols" : "false",
+            "supportedQueryFormats" : "JSON, AMF",
+            "htmlPopupType" : "esriServerHTMLPopupTypeAsHTMLText",
+            "name" : "Swimming Pools",
+            "hasLabels" : "true",
+            "displayField" : "NAME",
+            "id" : "0",
+            "minScale" : "400000",
+            "hasAttachments" : "false",
+            "geometryType" : "esriGeometryPoint"
+          },
+          "drawingInfo.labelingInfo_1.symbol" : {
+            "font.weight" : "bold",
+            "font.size" : "8",
+            "font.decoration" : "none",
+            "font.family" : "Arial",
+            "font.style" : "normal"
+          },
+          "drawingInfo.labelingInfo_2.symbol" : {
+            "font.weight" : "bold",
+            "font.size" : "8",
+            "font.decoration" : "none",
+            "font.family" : "Arial",
+            "font.style" : "normal"
+          },
+          "drawingInfo" : {
+            "renderer.field1" : "DATA",
+            "labelingInfo_1.minScale" : "20000",
+            "renderer.type" : "uniqueValue",
+            "labelingInfo_2.maxScale" : "0",
+            "labelingInfo_1.labelPlacement" : "esriServerPointLabelPlacementAboveRight",
+            "labelingInfo_2.useCodedValues" : "true",
+            "labelingInfo_2.labelExpression" : "[NAME]",
+            "labelingInfo_2.minScale" : "20000",
+            "transparency" : "0",
+            "labelingInfo_2.where" : "DATA = 'Municipal'",
+            "renderer.fieldDelimiter" : ", ",
+            "labelingInfo_1.maxScale" : "0",
+            "labelingInfo_1.useCodedValues" : "true",
+            "labelingInfo_2.labelPlacement" : "esriServerPointLabelPlacementAboveRight",
+            "labelingInfo_1.labelExpression" : "[NAME]",
+            "labelingInfo_1.where" : "DATA = 'County'"
+          },
+          "ownershipBasedAccessControlForFeatures" : {
+            "allowOthersToQuery" : "true"
+          },
+          "drawingInfo.labelingInfo_1" : {
+            "symbol.yoffset" : "0",
+            "symbol.rightToLeft" : "false",
+            "symbol.type" : "esriTS",
+            "symbol.angle" : "0",
+            "symbol.horizontalAlignment" : "center",
+            "symbol.xoffset" : "0",
+            "symbol.kerning" : "true",
+            "symbol.verticalAlignment" : "bottom"
+          },
+          "Dataset Information" : {
+            "Departments" : "Technology Services, Department of",
+            "Update Frequency" : "As Needed"
+          },
+          "drawingInfo.labelingInfo_2" : {
+            "symbol.yoffset" : "0",
+            "symbol.rightToLeft" : "false",
+            "symbol.type" : "esriTS",
+            "symbol.angle" : "0",
+            "symbol.horizontalAlignment" : "center",
+            "symbol.xoffset" : "0",
+            "symbol.kerning" : "true",
+            "symbol.verticalAlignment" : "bottom"
+          }
+        },
+        "rowIdentifier" : "0",
+        "rowLabel" : "Row",
+        "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+        "renderTypeConfig" : {
+          "visible" : {
+            "map" : true
+          }
+        }
+      },
+      "northWest" : {
+        "lat" : 39.1655012748099,
+        "long" : -77.4205780293212
+      },
+      "owner" : {
+        "id" : "hesx-43k8",
+        "displayName" : "Dan",
+        "screenName" : "Dan",
+        "type" : "interactive"
+      },
+      "query" : { },
+      "rights" : [ "read" ],
+      "southEast" : {
+        "lat" : 38.9729054031367,
+        "long" : -76.9856516279559
+      },
+      "tableAuthor" : {
+        "id" : "hesx-43k8",
+        "displayName" : "Dan",
+        "screenName" : "Dan",
+        "type" : "interactive"
+      },
+      "tags" : [ "map. technology", "geographic", "swimming pool", "swimming", "swim park" ],
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 1, "1", null, null, null, 0, null, null, "1", "SWIMMING POOLS", "Martin Luther King Jr Swim Center", "1201 Jackson Rd", "Silver Spring", "20904", "240-777-8066", "http://www.montgomerycountymd.gov/rec/thingstodo/aquatics/index.html", "County", "1316040.87493461999110877513885498046875", "505636.1249852500041015446186065673828125", [ null, "39.05506470200004", "-76.98694634899994", null, false, {
+    "point" : [ -76.98694634899994, 39.05506470200004 ]
+  } ], "39.05505683999999888555976212956011295318603515625", "-76.9869440899999943894727039150893688201904296875" ]
+, [ 2, "2", null, null, null, 0, null, null, "2", "SWIMMING POOLS", "Kennedy-Shriver Aquatic Center (KSAC)", "5900 Executive Blv", "N. Bethesda", "20852", "240-777-8070", "http://www.montgomerycountymd.gov/rec/thingstodo/aquatics/index.html", "County", "1278653.0141638000495731830596923828125", "502490.5045023200218565762042999267578125", [ null, "39.04636852300007", "-77.11859159399995", null, false, {
+    "point" : [ -77.11859159399995, 39.04636852300007 ]
+  } ], "39.0463606699999985494287102483212947845458984375", "-77.1185892900000027339046937413513660430908203125" ]
+, [ 3, "3", null, null, null, 0, null, null, "3", "SWIMMING POOLS", "Olney Swim Center", "16601 Georgia Ave", "Olney", "20832", "240-777-4995", "http://www.montgomerycountymd.gov/rec/thingstodo/aquatics/index.html", "County", "1292273.5000644898973405361175537109375", "531778.437457590014673769474029541015625", [ null, "39.12682158800004", "-77.07071340899995", null, false, {
+    "point" : [ -77.07071340899995, 39.12682158800004 ]
+  } ], "39.12681371000000041249222704209387302398681640625", "-77.07071111999999857289367355406284332275390625" ]
+, [ 4, "4", null, null, null, 0, null, null, "4", "SWIMMING POOLS", "Germantown Outdoor Pool", "18905 Kingsview Rd", "Germantown", "20874", "240-777-8067", "http://www.montgomerycountymd.gov/rec/thingstodo/aquatics/index.html", "County", "1231403.62506380002014338970184326171875", "545861.68739070999436080455780029296875", [ null, "39.165162606000024", "-77.28543467399999", null, false, {
+    "point" : [ -77.28543467399999, 39.165162606000024 ]
+  } ], "39.1651547299999975848550093360245227813720703125", "-77.2854323199999981852670316584408283233642578125" ]
+, [ 5, "5", null, null, null, 0, null, null, "5", "SWIMMING POOLS", "Wheaton / Glenmont Outdoor Pool", "12621 Dalewood Dr", "Wheaton", "20906", "301-929-5460", "http://www.montgomerycountymd.gov/rec/thingstodo/aquatics/index.html", "County", "1294031.18966612010262906551361083984375", "507645.212219120003283023834228515625", [ null, "39.060563968000054", "-77.06445746899993", null, false, {
+    "point" : [ -77.06445746899993, 39.060563968000054 ]
+  } ], "39.06055611000000027388523449189960956573486328125", "-77.0644551900000038813232094980776309967041015625" ]
+, [ 6, "6", null, null, null, 0, null, null, "6", "SWIMMING POOLS", "Long Branch Outdoor Pool", "8700 Piney Branch Rd", "Silver Spring", "20901", "301-431-5700", "http://www.montgomerycountymd.gov/rec/thingstodo/aquatics/index.html", "County", "1312842.1249796398915350437164306640625", "485505.7812864999868907034397125244140625", [ null, "38.99979385000006", "-76.99821199299998", null, false, {
+    "point" : [ -76.99821199299998, 38.99979385000006 ]
+  } ], "38.999786000000000285581336356699466705322265625", "-76.9982097299999992401353665627539157867431640625" ]
+, [ 7, "7", null, null, null, 0, null, null, "7", "SWIMMING POOLS", "Western County Outdoor Pool", "20151 Fisher Ave", "Poolesville", "20837", "301-349-2217", "http://www.montgomerycountymd.gov/rec/thingstodo/aquatics/index.html", "County", "1192762.8749478100799024105072021484375", "540106.499929349985904991626739501953125", [ null, "39.14895042100005", "-77.42162202399999", null, false, {
+    "point" : [ -77.42162202399999, 39.14895042100005 ]
+  } ], "39.14894256000000183348674909211695194244384765625", "-77.42161962000000130501575767993927001953125" ]
+, [ 8, "8", null, null, null, 0, null, null, "8", "SWIMMING POOLS", "Upper County Outdoor Pool", "8211 Emory Grove Rd", "Gaithersburg", "20877", "301-840-2446", "http://www.montgomerycountymd.gov/rec/thingstodo/aquatics/index.html", "County", "1264644.3749187500216066837310791015625", "540429.49999365000985562801361083984375", [ null, "39.15047478400004", "-77.16816236899996", null, false, {
+    "point" : [ -77.16816236899996, 39.15047478400004 ]
+  } ], "39.15046690999999867699443711899220943450927734375", "-77.1681600499999973408193909563124179840087890625" ]
+, [ 9, "9", null, null, null, 0, null, null, "9", "SWIMMING POOLS", "Bethesda Outdoor Pool", "6300 Hillandale Rd", "Bethesda", "20815", "301-652-1598", "http://www.montgomerycountymd.gov/rec/thingstodo/aquatics/index.html", "County", "1283791.1248885900713503360748291015625", "475991.1562536400160752236843109130859375", [ null, "38.973626386000035", "-77.10039756699996", null, false, {
+    "point" : [ -77.10039756699996, 38.973626386000035 ]
+  } ], "38.97361853999999681263943784870207309722900390625", "-77.1003952800000007528069545514881610870361328125" ]
+, [ 10, "10", null, null, null, 0, null, null, "10", "SWIMMING POOLS", "Water Park at Bohrer Park", "510 S Frederick Ave", "Gaithersburg", "20877", "301-258-6445", "http://www.gaithersburgmd.gov/about-gaithersburg/city-facilities/water-park-at-bohrer-park", "Municipal", "1256821.00159946992062032222747802734375", "533945.710931609966792166233062744140625", [ null, "39.132630052000025", "-77.19569993599998", null, false, {
+    "point" : [ -77.19569993599998, 39.132630052000025 ]
+  } ], "39.1326221799999984796158969402313232421875", "-77.195697609999996302576619200408458709716796875" ]
+, [ 11, "11", null, null, null, 0, null, null, "11", "SWIMMING POOLS", "Gaithersburg Aquatic Center", "2 Teachers Way", "Gaithersburg", "20884", "301-258-6345", "http://www.gaithersburgmd.gov/about-gaithersburg/city-facilities/aquatic-center", "Municipal", "1259319.43155379011295735836029052734375", "537870.47253527003340423107147216796875", [ null, "39.14342028000004", "-77.18692057499999", null, false, {
+    "point" : [ -77.18692057499999, 39.14342028000004 ]
+  } ], "39.14341241000000337635356117971241474151611328125", "-77.1869182500000050595190259627997875213623046875" ]
+, [ 12, "12", null, null, null, 0, null, null, "12", "SWIMMING POOLS", "Rockville Municipal Swim Center", "355 Martins La", "Rockville", "20850", "240-314-8750", "http://www.rockvillemd.gov/swimcenter", "Municipal", "1266992.691336940042674541473388671875", "518670.7129013899830169975757598876953125", [ null, "39.09074499700006", "-77.15974752399995", null, false, {
+    "point" : [ -77.15974752399995, 39.09074499700006 ]
+  } ], "39.09073713000000083184204413555562496185302734375", "-77.1597452099999969732380122877657413482666015625" ]
+, [ 13, "13", null, null, null, 0, null, null, "13", "SWIMMING POOLS", "Germantown Indoor Swim Center", "18000 Central Park Cir", "Boyds", "20841", "240-777-6830", "http://www.montgomerycountymd.gov/rec/thingstodo/aquatics/index.html", "County", "1225933.68381069996394217014312744140625", "540835.61429803003557026386260986328125", [ null, "39.151314558000024", "-77.30466740399999", null, false, {
+    "point" : [ -77.30466740399999, 39.151314558000024 ]
+  } ], "39.1513066899999984116220730356872081756591796875", "-77.304665040000003273235051892697811126708984375" ]
+, [ 14, "14", null, null, null, 0, null, null, "14", "SWIMMING POOLS", "Good Hope Sprayground", "14715 Good Hope Rd", "Silver Spring", "20905", "240-777-8060", "http://www.montgomerycountymd.gov/rec/thingstodo/aquatics/index.html", "County", "1316401.5689509599469602108001708984375", "520636.42272721999324858188629150390625", [ null, "39.09625018500003", "-76.98566788899996", null, false, {
+    "point" : [ -76.98566788899996, 39.09625018500003 ]
+  } ], "39.09624231000000094127244665287435054779052734375", "-76.985665629999999737265170551836490631103515625" ]
+ ]
+}
